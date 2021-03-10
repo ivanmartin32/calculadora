@@ -18,6 +18,6 @@ if __name__ == '__main__':
     if operador == '/':
         resultado = numero1 / numero2
         print('El resultado es', resultado)
-    # variable muestra para mostrar resultado al pausar consola
+    # variable muestra para pausar resultado en la consola de windows
     muestra = int(input())
 
