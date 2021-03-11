@@ -1,3 +1,20 @@
+#!/usr/bin/env python
+
+'''
+Calculadora [Python]
+---------------------------
+Autor: Iván Martín
+Version: 1.0
+
+Descripcion:
+Calculadora que devuelve los valores en consola
+
+'''
+
+__author__ = "Iván Martín"
+__email__ = "ivanmartin_32@hotmail.com"
+__version__ = "1.0"
+
 def calculadora():
 
     print('Calculadora')
