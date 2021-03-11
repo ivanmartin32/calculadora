@@ -1,4 +1,5 @@
-if __name__ == '__main__':
+def calculadora():
+
     print('Calculadora')
     print('Ingrese primer numero')
     numero1 = float(input())
@@ -20,4 +21,27 @@ if __name__ == '__main__':
         print('El resultado es', resultado)
     # variable muestra para pausar resultado en la consola de windows
     muestra = int(input())
+if __name__ == '__main__':
+    calculadora()    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
